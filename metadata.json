@@ -1,0 +1,7 @@
+{
+  "name": "ScanTrack Pro",
+  "description": "A high-performance logistics application for scanning transport boxes and managing item contents with status tracking and smart insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
